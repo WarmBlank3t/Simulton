@@ -4,7 +4,7 @@ ICS 33 project where different "simultons" with unique properties are put onto a
 Run script.py and click the control panel to play!
 
 
-Simulton Types:
+Simulton Types (types are differentiated using inheritance):
 
 ball (blue) - set speed and angle
 floater (red) - set speed and randomized angle every few canvas updates
