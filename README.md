@@ -5,7 +5,7 @@ Run script.py and click the control panel to play!
 
 
 
-Simulton Types (types are differentiated using inheritance):
+Simulton Types
 
 ball (blue) - set speed and angle
 
