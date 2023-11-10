@@ -1,5 +1,5 @@
 # Simulton
-ICS 33 project where different "simultons" with unique properties are put onto a GUI canvas to move around. Canvas is continuously updated, adjusting simultons accordingly, to simulate animation. 
+Physics simulator of different "simultons" with unique properties. Simulation is continuously updated, adjusting simultons accordingly, to simulate animation. 
 
 Run script.py and click the control panel to play!
 
