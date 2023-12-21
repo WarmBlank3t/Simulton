@@ -17,5 +17,3 @@ Simulton Types
 - special (purple) - captures ball and floaters that enter in its radius (like an atom electron cloud)
 
 Runs in Python 3.10 and below
-
-Project for ICS 33 with Professor Pattis
